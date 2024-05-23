@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-22" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/lib/xqjapi.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/lib/xqj2-0.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/lib/exist-xqj-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Descargas/lib/exist-xqj-1.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Descargas/lib/xqj2-0.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Descargas/lib/xqjapi.jar!/" />
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/../A.Dades/CarpetaexamenUF1NF" />
+          <root url="file://$MODULE_DIR$/../A.Dades/CarpetaexamenUF1NF/src/main/java" />
+          <root url="file://$MODULE_DIR$/../A.Dades/Ejercicio 1/src" />
+          <root url="file://$MODULE_DIR$/../A.Dades/HIbernate JPA/Examen/src" />
+          <root url="file://$MODULE_DIR$/../A.Dades/HIbernate JPA/HIbernate1/src/main/java" />
+          <root url="file://$MODULE_DIR$/../A.Dades/HIbernate JPA/TABLASadades/src" />
+          <root url="file://$MODULE_DIR$/../A.Dades/JAXB/src/main/java" />
+          <root url="file://$MODULE_DIR$/../A.Dades/Postgre/src" />
+          <root url="file://$MODULE_DIR$/../A.Dades/UF1NF2" />
+          <root url="file://$MODULE_DIR$/../A.Dades/UF2" />
+          <root url="file://$MODULE_DIR$/../A.Dades/repaso examen2" />
+          <root url="file://$MODULE_DIR$/../BBDD-master/src/main/java" />
+          <root url="file://$MODULE_DIR$/../BaseDatos/src/main/java" />
+          <root url="file://$MODULE_DIR$/../ContadorDeClicsAndroid-main/app/src/androidTest/java" />
+          <root url="file://$MODULE_DIR$/../ContadorDeClicsAndroid-main/app/src/main/java" />
+          <root url="file://$MODULE_DIR$/../ContadorDeClicsAndroid-main/app/src/test/java" />
+          <root url="file://$MODULE_DIR$/../Control2UF1" />
+          <root url="file://$MODULE_DIR$/../FlappyBird-master/android/src" />
+          <root url="file://$MODULE_DIR$/../FlappyBird-master/core/src" />
+          <root url="file://$MODULE_DIR$/../Grup4B-Rlopez/Grup4B-Rlopez/src/main/java" />
+          <root url="file://$MODULE_DIR$/../Juego-master/android/src" />
+          <root url="file://$MODULE_DIR$/../Juego-master/core/src" />
+          <root url="file://$MODULE_DIR$/../M03-main" />
+          <root url="file://$MODULE_DIR$/../M09 UF2/examenUF2" />
+          <root url="file://$MODULE_DIR$/../MiApi/src/main/java" />
+          <root url="file://$MODULE_DIR$/../MiApi/src/test/java" />
+          <root url="file://$MODULE_DIR$/../Nueva carpeta/src" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/build/generated/ap_generated_sources/debug/out" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/build/generated/data_binding_base_class_source_out/debug/out" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/build/generated/source/buildConfig/androidTest/debug" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/build/generated/source/buildConfig/debug" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/src/androidTest/java" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/src/main/java" />
+          <root url="file://$MODULE_DIR$/../Practica Final ANDROID STUDIO/app/src/test/java" />
+          <root url="file://$MODULE_DIR$/../Procesos moviles" />
+          <root url="file://$MODULE_DIR$/../Programacion B2" />
+          <root url="file://$MODULE_DIR$/../Programacion B2/codi" />
+          <root url="file://$MODULE_DIR$/../ex4/MainStreams/src" />
+          <root url="file://$MODULE_DIR$/../ex4/Setmana1/src" />
+          <root url="file://$MODULE_DIR$/../ex4/Tasca UF4 1.4/src" />
+          <root url="file://$MODULE_DIR$/../ex4/hello/src/main/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
